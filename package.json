@@ -1,0 +1,15 @@
+{
+  "name": "crossfit-coach",
+  "version": "1.0.0",
+  "description": "Alexa Skill test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Freitas",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.0.10",
+    "ask-sdk-model": "^1.6.0"
+  }
+}
